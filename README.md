@@ -1,2 +1,2 @@
-# Numerical_Analysis
+# Numerical_Method
 수치해석
